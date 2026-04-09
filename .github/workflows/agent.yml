@@ -15,7 +15,6 @@ jobs:
     
     permissions:
       contents: read
-      artifacts: write
     
     steps:
       # Step 1: Clone repository
